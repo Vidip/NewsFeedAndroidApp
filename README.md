@@ -12,5 +12,5 @@ An Android app which curates news from multiple news portal using NEWS API and d
 
 ### News Feed Screenshot
 
-![News Feed](newsfeed.png)
+![News Feed](newsfeed.png) ![News Feed](newsfeedsignup.png)
 
